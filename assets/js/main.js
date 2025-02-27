@@ -246,7 +246,7 @@
           setTimeout(() => {
               element.classList.remove('d-block');
               document.getElementById('contactForm').reset()
-          }, 1000);
+          }, 3000);
       });
 
       
